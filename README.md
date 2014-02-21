@@ -22,7 +22,7 @@ If you are using Gradle for building your Android project, you should follow the
 
 1. Download the latest [version](https://github.com/thermodo/ThermodoSDK-Android/tree/master/thermodosdk-dist) of the SDK
 2. Add the `thermodosdk` JAR file into the libraries folder of your Gradle project
-3. Add the following dependency in your gradle build file, replacing _YOUR_LIBRARIES_FOLDER_ with the folder where you have placed the JAR file:
+3. Add the following dependency in your gradle build file, replacing *YOUR_LIBRARIES_FOLDER* with the folder where you have placed the JAR file:
 
 ```
 dependencies {
