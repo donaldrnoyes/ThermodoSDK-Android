@@ -27,7 +27,7 @@ If you are using Gradle for building your Android project, you should follow the
 ```
 dependencies {
     // ... other dependencies
-    compile files('YOUR_LIBRARIES_FOLDER/thermodosdk.jar'))
+    compile files('libs/thermodosdk-1.0.18.jar'))
 }
 ```
 
